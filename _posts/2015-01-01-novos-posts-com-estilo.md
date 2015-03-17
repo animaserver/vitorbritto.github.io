@@ -11,7 +11,7 @@ bio: Desenvolvedor Web e Designer, extremamente apaixonado pelo seu trabalho. De
 ---
 
 
-Saudações!
+Saudações Pessoal!
 
 Gostaria de compartilhar uma dica interessante para os usuários do _Static Generator_ Jekyll, que, apesar de ser uma excelente ferramenta, me deixou na mão em um ponto: criar novos posts. 
 
